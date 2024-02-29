@@ -106,42 +106,42 @@
     },
     {
       "id": 14,
-      "title": "Art Deco Crystal Vase",
-      "price": 79.99,
-      "description": "A stunning crystal vase with an Art Deco design, perfect for showcasing your favorite flowers or as a decorative piece.",
+      "title": "Vintage Pocket Compass",
+      "price": 54.99,
+      "description": "A functional and stylish vintage pocket compass, perfect for outdoor adventures or as a collectible item.",
       "category": "antiques",
       "image": "https://i.postimg.cc/fV0chfmH/image14.png"
     },
     {
       "id": 15,
-      "title": "Retro Brass Candle Holders Set",
-      "price": 59.99,
-      "description": "A set of retro-style brass candle holders, adding a warm and nostalgic ambiance to your home decor.",
+      "title": "Art Deco Crystal Vase",
+      "price": 79.99,
+      "description": "A stunning crystal vase with an Art Deco design, perfect for showcasing your favorite flowers or as a decorative piece.",
       "category": "antiques",
       "image": "https://i.postimg.cc/w7j2nNwP/image15.png"
     },
     {
       "id": 16,
-      "title": "1920s Pearl Necklace",
-      "price": 169.99,
-      "description": "An elegant pearl necklace from the 1920s, reminiscent of the glamorous flapper era.",
-      "category": "jewelry",
+      "title": "Retro Brass Candle Holders Set",
+      "price": 59.99,
+      "description": "A set of retro-style brass candle holders, adding a warm and nostalgic ambiance to your home decor.",
+      "category": "antiques",
       "image": "https://i.postimg.cc/rzJghjNx/image16.png"
     },
     {
       "id": 17,
-      "title": "Art Nouveau Bronze Mirror",
-      "price": 129.99,
-      "description": "A bronze-framed mirror with intricate Art Nouveau detailing, a statement piece for any vintage-inspired space.",
-      "category": "antiques",
+      "title": "1920s Pearl Necklace",
+      "price": 169.99,
+      "description": "An elegant pearl necklace from the 1920s, reminiscent of the glamorous flapper era.",
+      "category": "jewelry",
       "image": "https://i.postimg.cc/4KVQpQ3K/image17.png"
     },
     {
       "id": 18,
-      "title": "Silver Filigree Brooch",
-      "price": 39.99,
-      "description": "A delicate silver filigree brooch with a timeless design, perfect for adding a touch of sophistication to your outfit.",
-      "category": "jewelry",
+      "title": "Art Nouveau Bronze Mirror",
+      "price": 129.99,
+      "description": "A bronze-framed mirror with intricate Art Nouveau detailing, a statement piece for any vintage-inspired space.",
+      "category": "antiques",
       "image": "https://i.postimg.cc/sMtJBN3d/image18.png"
     },
     {
@@ -154,11 +154,11 @@
     },
     {
       "id": 20,
-      "title": "Antique Brass Hand Mirror",
-      "price": 49.99,
-      "description": "An antique brass hand mirror with intricate patterns, a beautiful addition to your vanity or dressing table.",
-      "category": "antiques",
-      "image": "https://i.postimg.cc/Y4BWZf46/image20.png"
-    }
+      "title": "Silver Filigree Brooch",
+      "price": 39.99,
+      "description": "A delicate silver filigree brooch with a timeless design, perfect for adding a touch of sophistication to your outfit.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/wjQnPcjW/image8.png"
+    } 
   ]
 }
