@@ -1,162 +1,165 @@
-[
-  {
-    "id": 1,
-    "title": "Vintage Brass Table Lamp",
-    "price": 89.99,
-    "description": "An exquisite brass table lamp with intricate detailing, perfect for adding a touch of elegance to your living space.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/bdV2pjDN/image1.png"
-  },
-  {
-    "id": 2,
-    "title": "Antique Brass Telescope",
-    "price": 79.99,
-    "description": "An antique brass telescope with extendable design, ideal for stargazing or as a decorative piece in your home.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/KRdk3rD6/image2.png"
-  },
-  {
-    "id": 3,
-    "title": "Victorian Lace Hand Fan",
-    "price": 34.99,
-    "description": "A beautifully crafted lace hand fan with a Victorian-inspired design, perfect for adding a touch of romance.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/Tpy5PHgj/image3.png"
-  },
-  {
-    "id": 4,
-    "title": "Art Deco Gold Cuff Bracelet",
-    "price": 89.99,
-    "description": "A stunning gold cuff bracelet with an Art Deco pattern, a glamorous accessory for special occasions.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/TLRWYdJh/image4.png"
-  },
-  {
-    "id": 5,
-    "title": "Porcelain Figurines Set",
-    "price": 69.99,
-    "description": "A charming set of retro porcelain figurines, perfect for adding a nostalgic touch to your home decor.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/zb0Hysx7/image5.png"
-  },
-  {
-    "id": 6,
-    "title": "Vintage Brass Candle Snuffer",
-    "price": 29.99,
-    "description": "A vintage brass candle snuffer with ornate detailing, both functional and decorative for your candlelight moments.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/V0vrnKT8/image6.png"
-  },
-  {
-    "id": 7,
-    "title": "Art Nouveau Pearl Hairpin",
-    "price": 24.99,
-    "description": "An Art Nouveau-inspired pearl hairpin, adding a touch of vintage glamour to your hairstyle.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/Lh8Zcssb/image7.png"
-  },
-  {
-    "id": 8,
-    "title": "Antique Brass Key Set",
-    "price": 49.99,
-    "description": "A set of antique brass keys with intricate designs, perfect for collectors or as decorative accents.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/gwyZWXRf/image8.png"
-  },
-  {
-    "id": 9,
-    "title": "1920s Flapper Headband",
-    "price": 19.99,
-    "description": "A stylish 1920s flapper headband adorned with beads and feathers, ideal for themed parties or costume events.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/Y4BWZf46/image9.png"
-  },
-  {
-    "id": 10,
-    "title": "Victorian Cameo Brooch",
-    "price": 44.99,
-    "description": "A Victorian-style cameo brooch with intricate detailing, a timeless accessory for any vintage enthusiast.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/hfhTdGWd/image10.png"
-  },
-  {
-    "id": 11,
-    "title": "Art Deco Glass Perfume Bottle",
-    "price": 59.99,
-    "description": "An Art Deco-inspired glass perfume bottle with a glamorous design, perfect for displaying on your vanity.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/QFT7fnMN/image11.png"
-  },
-  {
-    "id": 12,
-    "title": "Antique Silver Jewelry Box",
-    "price": 49.99,
-    "description": "A beautiful silver jewelry box with a vintage design, ideal for storing your precious jewelry in style.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/CztDHVS6/image12.png"
-  },
-  {
-    "id": 13,
-    "title": "Vintage Wooden Chess Set",
-    "price": 74.99,
-    "description": "A vintage wooden chess set with hand-carved pieces, a classic game with an antique twist.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/z3znqjxp/image13.png"
-  },
-  {
-    "id": 14,
-    "title": "Vintage Pocket Compass",
-    "price": 54.99,
-    "description": "A functional and stylish vintage pocket compass, perfect for outdoor adventures or as a collectible item.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/682rDpMX/image14.png"
-  },
-  {
-    "id": 15,
-    "title": "Art Deco Crystal Vase",
-    "price": 79.99,
-    "description": "A stunning crystal vase with an Art Deco design, perfect for showcasing your favorite flowers or as a decorative piece.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/v4JrMwK6/image15.png"
-  },
-  {
-    "id": 16,
-    "title": "Retro Brass Candle Holders Set",
-    "price": 59.99,
-    "description": "A set of retro-style brass candle holders, adding a warm and nostalgic ambiance to your home decor.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/MMDVyMpy/image16.png"
-  },
-  {
-    "id": 17,
-    "title": "1920s Pearl Necklace",
-    "price": 169.99,
-    "description": "An elegant pearl necklace from the 1920s, reminiscent of the glamorous flapper era.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/7JZ7XH5j/image17.png"
-  },
-  {
-    "id": 18,
-    "title": "Art Nouveau Bronze Mirror",
-    "price": 129.99,
-    "description": "A bronze-framed mirror with intricate Art Nouveau detailing, a statement piece for any vintage-inspired space.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/nM3qrD5x/image18.png"
-  },
-  {
-    "id": 19,
-    "title": "Vintage Pocket Compass",
-    "price": 54.99,
-    "description": "A functional and stylish vintage pocket compass, perfect for outdoor adventures or as a collectible item.",
-    "category": "antiques",
-    "image": "https://i.postimg.cc/ZBZ6BF4b/image19.png"
-  },
-  {
-    "id": 20,
-    "title": "Silver Filigree Brooch",
-    "price": 39.99,
-    "description": "A delicate silver filigree brooch with a timeless design, perfect for adding a touch of sophistication to your outfit.",
-    "category": "jewelry",
-    "image": "https://i.postimg.cc/wtDhjbK4/image20.png"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Vintage Brass Table Lamp",
+      "price": 89.99,
+      "description": "An exquisite brass table lamp with intricate detailing, perfect for adding a touch of elegance to your living space.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/bdV2pjDN/image1.png"
+    },
+    {
+      "id": 2,
+      "title": "Antique Brass Telescope",
+      "price": 79.99,
+      "description": "An antique brass telescope with extendable design, ideal for stargazing or as a decorative piece in your home.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/KRdk3rD6/image2.png"
+    },
+    {
+      "id": 3,
+      "title": "Victorian Lace Hand Fan",
+      "price": 34.99,
+      "description": "A beautifully crafted lace hand fan with a Victorian-inspired design, perfect for adding a touch of romance.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/Tpy5PHgj/image3.png"
+    },
+    {
+      "id": 4,
+      "title": "Art Deco Gold Cuff Bracelet",
+      "price": 89.99,
+      "description": "A stunning gold cuff bracelet with an Art Deco pattern, a glamorous accessory for special occasions.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/TLRWYdJh/image4.png"
+    },
+    {
+      "id": 5,
+      "title": "Porcelain Figurines Set",
+      "price": 69.99,
+      "description": "A charming set of retro porcelain figurines, perfect for adding a nostalgic touch to your home decor.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/zb0Hysx7/image5.png"
+    },
+    {
+      "id": 6,
+      "title": "Vintage Brass Candle Snuffer",
+      "price": 29.99,
+      "description": "A vintage brass candle snuffer with ornate detailing, both functional and decorative for your candlelight moments.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/V0vrnKT8/image6.png"
+    },
+    {
+      "id": 7,
+      "title": "Art Nouveau Pearl Hairpin",
+      "price": 24.99,
+      "description": "An Art Nouveau-inspired pearl hairpin, adding a touch of vintage glamour to your hairstyle.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/Lh8Zcssb/image7.png"
+    },
+    {
+      "id": 8,
+      "title": "Antique Brass Key Set",
+      "price": 49.99,
+      "description": "A set of antique brass keys with intricate designs, perfect for collectors or as decorative accents.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/gwyZWXRf/image8.png"
+    },
+    {
+      "id": 9,
+      "title": "1920s Flapper Headband",
+      "price": 19.99,
+      "description": "A stylish 1920s flapper headband adorned with beads and feathers, ideal for themed parties or costume events.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/Y4BWZf46/image9.png"
+    },
+    {
+      "id": 10,
+      "title": "Victorian Cameo Brooch",
+      "price": 44.99,
+      "description": "A Victorian-style cameo brooch with intricate detailing, a timeless accessory for any vintage enthusiast.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/hfhTdGWd/image10.png"
+    },
+    {
+      "id": 11,
+      "title": "Art Deco Glass Perfume Bottle",
+      "price": 59.99,
+      "description": "An Art Deco-inspired glass perfume bottle with a glamorous design, perfect for displaying on your vanity.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/QFT7fnMN/image11.png"
+    },
+    {
+      "id": 12,
+      "title": "Antique Silver Jewelry Box",
+      "price": 49.99,
+      "description": "A beautiful silver jewelry box with a vintage design, ideal for storing your precious jewelry in style.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/CztDHVS6/image12.png"
+    },
+    {
+      "id": 13,
+      "title": "Vintage Wooden Chess Set",
+      "price": 74.99,
+      "description": "A vintage wooden chess set with hand-carved pieces, a classic game with an antique twist.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/z3znqjxp/image13.png"
+    },
+    {
+      "id": 14,
+      "title": "Vintage Pocket Compass",
+      "price": 54.99,
+      "description": "A functional and stylish vintage pocket compass, perfect for outdoor adventures or as a collectible item.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/682rDpMX/image14.png"
+    },
+    {
+      "id": 15,
+      "title": "Art Deco Crystal Vase",
+      "price": 79.99,
+      "description": "A stunning crystal vase with an Art Deco design, perfect for showcasing your favorite flowers or as a decorative piece.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/v4JrMwK6/image15.png"
+    },
+    {
+      "id": 16,
+      "title": "Retro Brass Candle Holders Set",
+      "price": 59.99,
+      "description": "A set of retro-style brass candle holders, adding a warm and nostalgic ambiance to your home decor.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/MMDVyMpy/image16.png"
+    },
+    {
+      "id": 17,
+      "title": "1920s Pearl Necklace",
+      "price": 169.99,
+      "description": "An elegant pearl necklace from the 1920s, reminiscent of the glamorous flapper era.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/7JZ7XH5j/image17.png"
+    },
+    {
+      "id": 18,
+      "title": "Art Nouveau Bronze Mirror",
+      "price": 129.99,
+      "description": "A bronze-framed mirror with intricate Art Nouveau detailing, a statement piece for any vintage-inspired space.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/nM3qrD5x/image18.png"
+    },
+    {
+      "id": 19,
+      "title": "Vintage Pocket Compass",
+      "price": 54.99,
+      "description": "A functional and stylish vintage pocket compass, perfect for outdoor adventures or as a collectible item.",
+      "category": "antiques",
+      "image": "https://i.postimg.cc/ZBZ6BF4b/image19.png"
+    },
+    {
+      "id": 20,
+      "title": "Silver Filigree Brooch",
+      "price": 39.99,
+      "description": "A delicate silver filigree brooch with a timeless design, perfect for adding a touch of sophistication to your outfit.",
+      "category": "jewelry",
+      "image": "https://i.postimg.cc/wtDhjbK4/image20.png"
+    }
+  ]
+  
+}
